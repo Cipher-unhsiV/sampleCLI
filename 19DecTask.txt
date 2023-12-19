@@ -1,0 +1,5 @@
+19/12/2023
+
+1. java prgm to merge 2 queue.
+2. reverse th order of elements in queue without using any additional DS
+3. sum of all even numbers in queue
